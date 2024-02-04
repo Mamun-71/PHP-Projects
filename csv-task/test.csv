@@ -1,0 +1,15 @@
+type,title,description
+1,a,xyz
+1,b,xyz
+1,c,xyz
+2,a,xyz
+2,b,xyz
+2,c,xyz
+2,a,abs
+2,a,dad
+2,a,xyz
+1,c,xyz
+1,a,abc
+2,a,last
+1,a,last
+2,Utilizing Djangos built-in administration interface to manage the application,Special Case
